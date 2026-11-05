@@ -1,0 +1,313 @@
+{
+  "basis": "License and notice files supplied by the exact build-environment distributions and pinned bundled components. Composer source uses its pinned checkout rather than unrelated installed wheel metadata.",
+  "files": [
+    {
+      "component": "aiohappyeyeballs",
+      "version": "2.7.1",
+      "file": "python/aiohappyeyeballs/aiohappyeyeballs-2.7.1.dist-info/licenses/LICENSE",
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+    },
+    {
+      "component": "aiohttp",
+      "version": "3.14.3",
+      "file": "python/aiohttp/aiohttp-3.14.3.dist-info/licenses/LICENSE.txt",
+      "sha256": "2e4be5fc6c4c72a466fcb665d726e049a6891981fe536c4f04b6366749461d23"
+    },
+    {
+      "component": "aiohttp",
+      "version": "3.14.3",
+      "file": "python/aiohttp/aiohttp-3.14.3.dist-info/licenses/vendor/llhttp/LICENSE",
+      "sha256": "628168d68bb5a8a17e0bbefb3bd74e326e1edc20583d76f52f457c82c921867d"
+    },
+    {
+      "component": "aiosignal",
+      "version": "1.4.0",
+      "file": "python/aiosignal/aiosignal-1.4.0.dist-info/licenses/LICENSE",
+      "sha256": "6fd5243e92dd7f98ec69c7ac377728e74905709ff527a5bf98d6d0263c04f5b6"
+    },
+    {
+      "component": "annotated-types",
+      "version": "0.8.0",
+      "file": "python/annotated-types/annotated_types-0.8.0.dist-info/licenses/LICENSE",
+      "sha256": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d"
+    },
+    {
+      "component": "attrs",
+      "version": "26.1.0",
+      "file": "python/attrs/attrs-26.1.0.dist-info/licenses/LICENSE",
+      "sha256": "882115c95dfc2af1eeb6714f8ec6d5cbcabf667caff8729f42420da63f714e9f"
+    },
+    {
+      "component": "frozenlist",
+      "version": "1.8.0",
+      "file": "python/frozenlist/frozenlist-1.8.0.dist-info/licenses/LICENSE",
+      "sha256": "6fd5243e92dd7f98ec69c7ac377728e74905709ff527a5bf98d6d0263c04f5b6"
+    },
+    {
+      "component": "idna",
+      "version": "3.20",
+      "file": "python/idna/idna-3.20.dist-info/licenses/LICENSE.md",
+      "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04"
+    },
+    {
+      "component": "multidict",
+      "version": "6.9.1",
+      "file": "python/multidict/multidict-6.9.1.dist-info/licenses/LICENSE",
+      "sha256": "2e4be5fc6c4c72a466fcb665d726e049a6891981fe536c4f04b6366749461d23"
+    },
+    {
+      "component": "packaging",
+      "version": "26.3",
+      "file": "python/packaging/packaging-26.3.dist-info/licenses/LICENSE",
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "component": "packaging",
+      "version": "26.3",
+      "file": "python/packaging/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "component": "packaging",
+      "version": "26.3",
+      "file": "python/packaging/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "component": "pillow",
+      "version": "12.3.0",
+      "file": "python/pillow/pillow-12.3.0.dist-info/licenses/LICENSE",
+      "sha256": "dda12a98c1979cf3d94df1cff45d27a4cb3f04a60c76f76902ac54cac03ec0ce"
+    },
+    {
+      "component": "propcache",
+      "version": "0.5.4",
+      "file": "python/propcache/propcache-0.5.4.dist-info/licenses/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "component": "propcache",
+      "version": "0.5.4",
+      "file": "python/propcache/propcache-0.5.4.dist-info/licenses/NOTICE",
+      "sha256": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838"
+    },
+    {
+      "component": "psutil",
+      "version": "7.2.2",
+      "file": "python/psutil/psutil-7.2.2.dist-info/LICENSE",
+      "sha256": "b89c063b3786e28e0c0a38f1931db61fed35e69dd2a2966fbecffee0f46c8d10"
+    },
+    {
+      "component": "pydantic",
+      "version": "2.14.2",
+      "file": "python/pydantic/pydantic-2.14.2.dist-info/licenses/LICENSE",
+      "sha256": "a9e186f3ca16b5eef84318e7a701721351a00cb7b8ae3a4394b67b49e3529ef3"
+    },
+    {
+      "component": "pydantic_core",
+      "version": "2.50.2",
+      "file": "python/pydantic_core/pydantic_core-2.50.2.dist-info/licenses/LICENSE",
+      "sha256": "2afdd30d54b4d62b6f488a6bcc1546e84ec5061f13f4209c03d012348783795a"
+    },
+    {
+      "component": "pyinstaller",
+      "version": "6.22.3",
+      "file": "python/pyinstaller/pyinstaller-6.22.3.dist-info/licenses/COPYING.txt",
+      "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+    },
+    {
+      "component": "python-dotenv",
+      "version": "1.2.4",
+      "file": "python/python-dotenv/python_dotenv-1.2.4.dist-info/licenses/LICENSE",
+      "sha256": "80619b7049f08c81683ad0e01f08f257a840652dd71ee83146d36658c7d2c2b9"
+    },
+    {
+      "component": "regex",
+      "version": "2026.9.29",
+      "file": "python/regex/regex-2026.9.29.dist-info/licenses/LICENSE.txt",
+      "sha256": "bff55ef4cdcc8c14ce259f8e8ab60e264418440d6335f4dc138273fbd506144d"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools-84.2.1.dist-info/licenses/LICENSE",
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+      "sha256": "ade78d04982d69972d444a8e14a94f87a2334dd3855cc80348ea8e240aa0df2d"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+      "sha256": "458502e12d97bbf64438606a20044aa85eb05fb0a8a807bb35dbec253fd1fc04"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE",
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+      "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+      "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE",
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+      "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE",
+      "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+      "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+    },
+    {
+      "component": "setuptools",
+      "version": "84.2.1",
+      "file": "python/setuptools/setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE",
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "component": "typing-inspection",
+      "version": "0.4.4",
+      "file": "python/typing-inspection/typing_inspection-0.4.4.dist-info/licenses/LICENSE",
+      "sha256": "804b59b25f2c31bd278f9202a19ae49a3945aa2664387e2d0a128c7cacc61ec3"
+    },
+    {
+      "component": "typing_extensions",
+      "version": "4.16.0",
+      "file": "python/typing_extensions/typing_extensions-4.16.0.dist-info/licenses/LICENSE",
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+    },
+    {
+      "component": "websockets",
+      "version": "15.0.1",
+      "file": "python/websockets/websockets-15.0.1.dist-info/LICENSE",
+      "sha256": "3d6a0c050d8bec52fabad502e45fb25bd02bcadbd70dea34d447b6a0ff4e6da8"
+    },
+    {
+      "component": "yarl",
+      "version": "1.25.1",
+      "file": "python/yarl/yarl-1.25.1.dist-info/licenses/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "component": "yarl",
+      "version": "1.25.1",
+      "file": "python/yarl/yarl-1.25.1.dist-info/licenses/NOTICE",
+      "sha256": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838"
+    },
+    {
+      "component": "CPython",
+      "version": "3.13.7",
+      "file": "python/CPython-LICENSE.txt",
+      "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb"
+    },
+    {
+      "component": "MediaPipe Tasks Vision and models",
+      "version": "1.1.1 runtime; pinned model files",
+      "file": "mediapipe/Apache-2.0.txt",
+      "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8"
+    },
+    {
+      "component": "WorkSwarm CUA",
+      "version": "v0.2.8",
+      "file": "workswarm/LICENSE",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+    },
+    {
+      "component": "WorkSwarm CUA",
+      "version": "v0.2.8",
+      "file": "workswarm/OPEN_SOURCE_SOFTWARE_NOTICE.md",
+      "sha256": "a74f099af9a6d77bb3d76b5ae26e7f8192a3511224ef577cd48682fab62b056c"
+    },
+    {
+      "component": "Composer CUA",
+      "version": "e7ab9ef1e682d065ae38562e468842a52895c3a7",
+      "file": "composer/LICENSE",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+    },
+    {
+      "component": "Composer CUA",
+      "version": "e7ab9ef1e682d065ae38562e468842a52895c3a7",
+      "file": "composer/OPEN_SOURCE_SOFTWARE_NOTICE.md",
+      "sha256": "ddb9ddbd443073b2a468b971dc26932068043c8d9c85e4f4d051dfcd9c7064ca"
+    },
+    {
+      "component": "Electron",
+      "version": "45.2.1",
+      "file": "electron/LICENSE",
+      "sha256": "5154e165bd6c2cc0cfbcd8916498c7abab0497923bafcd5cb07673fe8480087d"
+    },
+    {
+      "component": "Chromium bundled with Electron",
+      "version": "45.2.1",
+      "file": "electron/LICENSES.chromium.html",
+      "sha256": "214152f78cc0b611f63ff8faefcc6670c4605ffbff05f092bb671e6df80ce741"
+    },
+    {
+      "component": "OpenSSL",
+      "version": "3.0.16",
+      "source": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.0.16/LICENSE.txt",
+      "file": "python/native/OpenSSL-LICENSE.txt",
+      "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+    },
+    {
+      "component": "libffi",
+      "version": "3.4.6 notice",
+      "source": "https://raw.githubusercontent.com/libffi/libffi/v3.4.6/LICENSE",
+      "file": "python/native/libffi-LICENSE",
+      "sha256": "67894089811f93fca47a76f85e017da6f8582d4ba0905963c6e0f1ad6df7a195"
+    }
+  ]
+}
