@@ -1,0 +1,7 @@
+{
+  "baseline_sha256": "50cc9df95538091e555637e25ff031825b6d3df4ad146530c9bf47c243728bd1",
+  "archive_sha256": "7a7fa12be2f41bf517f18b56d08d86068379a2914044d42aacb6a9c2f8382fd0",
+  "archive_bytes": 168446993,
+  "existing_zip_members_unchanged": true,
+  "change": "Added project Apache-2.0 license and upstream notices outside the signed helper app; app identity retained."
+}

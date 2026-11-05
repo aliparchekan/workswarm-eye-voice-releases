@@ -15,7 +15,7 @@ Requires Apple-silicon macOS, unchanged WorkSwarm 0.2.8 on the same Mac, English
 
 ## Release status
 
-The small package passes the official WorkSwarm publisher and isolated import/install/uninstall checks. Automated verification: 801 Python and 78 JavaScript tests passed. Public download verification is recorded separately in the release receipts.
+The small package passes the official WorkSwarm publisher and isolated import/install/uninstall checks. Automated verification: 801 Python and 78 JavaScript tests passed. Both published ZIPs downloaded without GitHub credentials. The helper passed real signature/install/cache checks; the marketplace ZIP passed the actual isolated host import/install/uninstall. See [verification receipts](verification/verification.json).
 
 Marketplace submission is blocked: the Agentic Hub sign-in page currently says **“No login provider is configured.”** This GitHub release can be imported directly; it is not a marketplace listing or approval.
 

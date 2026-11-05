@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-05",
+  "plugin_version": "1.0.4",
+  "helper_version": "1.0.3",
+  "python_tests_passed": 801,
+  "javascript_tests_passed": 78,
+  "upstream_python_warnings": 229,
+  "official_publisher_preflight": true,
+  "official_import_install_uninstall_in_isolated_shelf": true,
+  "independent_review": {
+    "focused_tests_passed": 119,
+    "implementation_blockers": 0,
+    "minor_findings_addressed": [
+      "Malformed redirect port now yields InstallError",
+      "Added cache ownership and writable-directory rejection tests"
+    ]
+  },
+  "public_download_verified": true,
+  "marketplace_uploaded": false,
+  "signing": "Pinned ad-hoc signed helper; not notarized",
+  "fresh_mac_physical_acceptance": false,
+  "publisher": "aliparchekan",
+  "license": "Apache-2.0",
+  "marketplace_blocker": "Agentic Hub sign-in page: No login provider is configured.",
+  "public_download_http_status": 200,
+  "public_package_download_and_import_verified": true,
+  "public_release_url": "https://github.com/aliparchekan/workswarm-eye-voice-releases/releases/tag/v1.0.4"
+}
