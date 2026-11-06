@@ -12,4 +12,4 @@ Download **workswarm-eye-voice-1.0.4-marketplace.zip** and import it into WorkSw
 
 **Experimental, Apple-silicon macOS only.** Tested host: WorkSwarm 0.2.8, English Safari/Chrome. Vision-capable model required. Helper is ad-hoc signed, not notarized; fresh-Mac physical acceptance remains unverified. No new model is bundled.
 
-This is a GitHub distribution release, not marketplace approval. Marketplace submission is blocked by Agentic Hub’s unavailable sign-in provider. Checksums are supplied in SHA256SUMS. Private source history and personal demo data are not published.
+The GitHub package is available for direct import. Marketplace submission is pending. On November 6 Agentic Hub offered GitHub sign-in. Checksums are supplied in SHA256SUMS. Private source history and personal demo data are not published.
