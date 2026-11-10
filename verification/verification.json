@@ -16,13 +16,15 @@
     ]
   },
   "public_download_verified": true,
-  "marketplace_uploaded": false,
+  "marketplace_uploaded": true,
   "signing": "Pinned ad-hoc signed helper; not notarized",
   "fresh_mac_physical_acceptance": false,
   "publisher": "aliparchekan",
   "license": "Apache-2.0",
-  "marketplace_blocker": "Agentic Hub sign-in page: No login provider is configured.",
   "public_download_http_status": 200,
   "public_package_download_and_import_verified": true,
-  "public_release_url": "https://github.com/aliparchekan/workswarm-eye-voice-releases/releases/tag/v1.0.4"
+  "public_release_url": "https://github.com/aliparchekan/workswarm-eye-voice-releases/releases/tag/v1.0.4",
+  "marketplace_status": "under_review",
+  "marketplace_submission_date": "2026-11-10",
+  "marketplace_plugin_id": "bd9d3aab79cb42b182ae334ec3aff856"
 }

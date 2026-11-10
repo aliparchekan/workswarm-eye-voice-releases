@@ -24,5 +24,5 @@ Report the first failing step, macOS version, chip, browser/version, WorkSwarm v
 ## Release follow-up
 
 - **Tester** — Return the two-turn result, draft-protection result and Stop result from the fresh installation. If a typed request already fails, record that as a WorkSwarm model/setup issue before testing gaze.
-- **Release owner** — Distribute the GitHub ZIP for testing. On November 6 the Hub offered GitHub sign-in. Sign in as the publisher, submit the prepared listing and record the submission receipt. [Listing copy](LISTING.md) · [Agentic Hub sign-in](https://agentichub.openjiuwen.com/login)
+- **Release owner** — Distribute the GitHub ZIP for testing. Version 1.0.4 was successfully uploaded on November 10 and is under review. Check the publisher Profile for the review outcome. [Submission receipt](verification/marketplace-submission.json) [Listing copy](LISTING.md) · [Agentic Hub sign-in](https://agentichub.openjiuwen.com/login)
 - **macOS distribution** — The helper uses an ad-hoc signature and lacks Apple notarization. If the tester’s Mac blocks launch, record the exact message and follow the organization’s software policy.

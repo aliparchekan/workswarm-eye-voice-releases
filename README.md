@@ -17,7 +17,7 @@ Requires Apple-silicon macOS, unchanged WorkSwarm 0.2.8 on the same Mac, English
 
 The small package passes the official WorkSwarm publisher and isolated import/install/uninstall checks. Automated verification: 801 Python and 78 JavaScript tests passed. Both published ZIPs downloaded without GitHub credentials. The helper passed real signature/install/cache checks; the marketplace ZIP passed the actual isolated host import/install/uninstall. See [verification receipts](verification/verification.json).
 
-Marketplace submission is pending. On November 6 the [Agentic Hub sign-in page](https://agentichub.openjiuwen.com/login) offered GitHub sign-in. Teammates can import the GitHub release directly for testing.
+Marketplace v1.0.4 was successfully submitted on November 10 and is **under review**. Public listing follows marketplace approval. Teammates can import the GitHub release for testing. [Submission receipt](verification/marketplace-submission.json)
 
 This is an experimental release. The helper is **ad-hoc signed and not notarized**. Speech can misrecognize words. Fresh-Mac public-installation and physical gaze/voice acceptance remain unverified. Follow your organization’s software policy; do not disable Gatekeeper globally.
 

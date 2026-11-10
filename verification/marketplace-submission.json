@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "marketplace": "https://agentichub.openjiuwen.com/",
+  "package_name": "workswarm-eye-voice",
+  "version": "1.0.4",
+  "plugin_id": "bd9d3aab79cb42b182ae334ec3aff856",
+  "package_sha256": "d46614584a37053b9e4f8484450848cc9c6acf7993f21b5d4ad0d198d2910f3f",
+  "status": "under_review",
+  "visibility": "public_after_approval",
+  "confirmation_heading": "Publish successful",
+  "confirmation_text": "“workswarm-eye-voice” v1.0.4 uploaded successfully and is under review; public Plugin appear on the marketplace once approved; private Plugin stay unlisted. Check status in Profile. (plugin_id: bd9d3aab79cb42b182ae334ec3aff856)"
+}
